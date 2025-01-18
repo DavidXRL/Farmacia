@@ -50,21 +50,27 @@
                   <li class="nav-item">
                       <a class="nav-link active" aria-current="page" href="{{route('index')}}">Inicio</a>
                   </li>
-                  {{-- <li class="nav-item">
-                      <a class="nav-link fw-bold" href="{{route('products.index')}}">Productos</a>
+                  <li class="nav-item">
+                      <a class="nav-link fw-bold" href="{{route('categories.index')}}">Categorías</a>
                   </li>
                   <li class="nav-item">
                       <a class="nav-link fw-bold" href="{{route('clients.index')}}">Clientes</a>
                   </li>
                   <li class="nav-item">
+                      <a class="nav-link fw-bold" href="{{route('products.index')}}">Productos</a>
+                  </li>
+                  <li class="nav-item">
+                      <a class="nav-link fw-bold" href="{{route('purchases.index')}}">Compras</a>
+                  </li>
+                  <li class="nav-item">
                       <a class="nav-link fw-bold" href="{{route('sales.index')}}">Ventas</a>
                   </li>
                   <li class="nav-item">
-                      <a class="nav-link fw-bold" href="{{route('brands.index')}}">Marcas</a>
+                      <a class="nav-link fw-bold" href="{{route('sales_details.index')}}">Detalles de ventas</a>
                   </li>
                   <li class="nav-item">
-                      <a class="nav-link fw-bold" href="{{route('addresses.index')}}">Direcciones</a>
-                  </li> --}}
+                      <a class="nav-link fw-bold" href="{{route('suppliers.index')}}">Proveedores</a>
+                  </li>
               </ul>
           </div>
       </div>

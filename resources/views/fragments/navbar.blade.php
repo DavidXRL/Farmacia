@@ -1,40 +1,5 @@
 <head>
-  <style>
-      /* Fondo más oscuro para el navbar */
-      .navbar {
-          background-color: #e6d8ad; /* Hueso oscuro para el navbar */
-      }
 
-      .navbar-brand {
-          color: #3f3e3e;
-      }
-
-      .navbar-brand:hover {
-          color: #333; /* Gris más oscuro para hover */
-      }
-
-      .navbar-nav .nav-link {
-          color: #000000; /* Gris oscuro para los enlaces */
-      }
-
-      .navbar-nav .nav-link:hover {
-          color: #333; /* Gris más oscuro en hover */
-      }
-
-      .navbar-nav .nav-link.active {
-          color: #8a816b;
-          font-weight: bold;
-      }
-
-      .navbar-toggler-icon {
-          background-color: #00000000;
-      }
-
-
-      body.bg-light {
-          background-color: #f9f6f0 !important;
-      }
-  </style>
 </head>
 
 <body class="bg-light">
